@@ -4,13 +4,13 @@
 
 Aplikasi web sederhana yang dirancang untuk membantu para penerima beasiswa (awardee) **Bright Scholarship** dari **YBM BRILiaN** dalam mencatat dan memantau aktivitas harian mereka. Proyek ini bertujuan untuk mendigitalisasi proses pelaporan kegiatan sebagai bagian dari program pembinaan karakter yang komprehensif.
 
-## Latar Belakang
+## 🚀 Live Demo
 
-**YBM BRILiaN** merupakan Lembaga Amil Zakat Nasional (LAZNAS) yang mengelola dana zakat, infak, dan sedekah berdasarkan Keputusan Menteri Agama RI No. 458 Tahun 2024.
+Anda dapat mengakses aplikasi yang sudah di-hosting melalui link berikut:
 
-Aplikasi ini dibuat untuk mempermudah para awardee dalam melaporkan aktivitas harian yang menjadi bagian dari evaluasi program pembinaan.
+**[Bright Scholarship - Activity Check-in](https://15-188-taufik.github.io/Check-in-Daily-Activity/)**
 
----
+
 
 ## ✨ Fitur Utama
 
